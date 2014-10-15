@@ -1,0 +1,3 @@
+[submodule "spkg"]
+	path = spkg
+	url = git@github.com:janzhou/spkg.git
